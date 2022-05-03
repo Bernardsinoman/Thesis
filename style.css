@@ -13,10 +13,10 @@
 	flex-wrap: rap;
 
 }
-
 .contentdiv{
 	width:100%;
 	display:flex;
+	flex-basis:100%
 	flex-direction: column;
 	align-items:center;
 	
