@@ -22,6 +22,9 @@
 	
 }
 .video {
+	display:flex;
+	flex-direction: column;
+	align-items:center;
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9, for an aspect ratio of 1:1 change to this value to 100% */ 
 	}
