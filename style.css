@@ -22,6 +22,9 @@
 	
 }
 .video {
+	display: block;
+	margin-left: auto;
+    	margin-right: auto; 
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9, for an aspect ratio of 1:1 change to this value to 100% */ 
 	}
@@ -32,9 +35,6 @@
 	width: 85%;
 	height: 100%;
 	border: 5px solid #FFFF00;
-	display: block;
-	margin-left: auto;
-    	margin-right: auto; 
 }
 
 .navigation{
