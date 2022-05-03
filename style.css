@@ -25,6 +25,7 @@
 	aspect-ratio: 16 / 9;
 	width: 85%;
 	height: 100%;
+}
 .video {
 	display:flex;
 	flex-direction: column;
