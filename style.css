@@ -28,6 +28,9 @@
 	border: 5px solid #FFFF00;
 	
 }
+.historyimg{
+	width: 50%
+}
 .videoWrapper {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
