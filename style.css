@@ -32,6 +32,11 @@
 	padding:10px;
 	border:0;
 }
+.graphicsimg{
+	width: 40%;
+	padding:10px;
+	border:0;
+}
 .videoWrapper {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
