@@ -52,6 +52,8 @@
 }
 .long{
 	width:75%;
+	padding:10px;
+	border:0;
 }
 .videoWrapper {
   position: relative;
