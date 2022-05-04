@@ -54,6 +54,7 @@
   height: 0;
   width:100%;
   border: 5px solid #FFF400;
+  text-align:center;
 }
 .videoWrapper iframe {
   position: absolute;
