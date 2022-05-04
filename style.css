@@ -28,8 +28,9 @@
 	
 }
 .historyimg{
-	width: 50%;
+	width: 40%;
 	padding:10px;
+	border:0;
 }
 .videoWrapper {
   position: relative;
