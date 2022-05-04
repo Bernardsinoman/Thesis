@@ -40,6 +40,9 @@
   position: absolute;
   top: 0;
   left: 0;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
   width: 85%;
   height: 100%;
   border: 5px solid #FFFF05;
