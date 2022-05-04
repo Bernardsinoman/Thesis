@@ -32,10 +32,9 @@
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
   height: 0;
+  width:100%;
   border: 5px solid #FFF400;
   display: block;
-  margin-right: auto;
-  margin-left: auto;
   text-align:center;
 }
 .videoWrapper iframe {
@@ -44,6 +43,7 @@
   left: 0;
   width: 85%;
   height: 100%;
+  margin:0 auto;
   border: 5px solid #FFFF05;
 }
 
