@@ -42,12 +42,16 @@
 	display:flex;
 	flex-direction: row;
 	align-items:center;
+	justify-content:center;
 	border: 5px solid #777777;
 }
 .e{
 	width:15%;
 	padding:5px;
 	border:0;
+}
+.long{
+	width:75%;
 }
 .videoWrapper {
   position: relative;
