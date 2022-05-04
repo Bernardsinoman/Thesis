@@ -13,6 +13,12 @@
 	flex-wrap: rap;
 
 }
+.trial{
+  position: relative;
+  overflow: hidden;
+  width: 85%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+  border: 5px solid #FFFF00;
 .contentdiv{
 	display:flex;
 	flex-direction: column;
