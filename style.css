@@ -13,18 +13,11 @@
 	flex-wrap: rap;
 
 }
-.trial{
-  position: relative;
-  overflow: hidden;
-  width: 85%;
-  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
-  border: 5px solid #FFFF00;
-}
+
 .contentdiv{
 	display:flex;
 	flex-direction: column;
 	align-items:center;
-	border: 5px solid #FFFF00;
 	
 }
 .historyimg{
@@ -42,7 +35,6 @@
 	flex-direction: row;
 	align-items: center;
     	justify-content: center;
-	border: 5px solid #777777;
 }
 .e{
 	width:15%;
@@ -72,7 +64,6 @@
 .videoWrapper {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
-  border: 5px solid #777777;
   display: block;
   text-align:center;
 }
@@ -83,7 +74,6 @@
   width: 80%;
   height: 100%;
   margin:0 auto;
-  border: 5px solid #FFFF05;
 }
 
 .navigation{
