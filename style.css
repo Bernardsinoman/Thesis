@@ -59,12 +59,19 @@
 	padding:10px;
 	border:0;
 }
-.videoWrapper {
+.videoWrapper2 {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
   height: 0;
   width:100%;
   border: 5px solid #FFF400;
+  display: block;
+  text-align:center;
+}
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  border: 5px solid #777777;
   display: block;
   text-align:center;
 }
