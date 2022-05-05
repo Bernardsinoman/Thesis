@@ -1,7 +1,6 @@
 .pagehead {
 	
 	width:100%;
-	
 	border: 4px #d5e8f0;
 	border-radius: 0;
 	display:flex;
@@ -10,7 +9,6 @@
 	padding:10px;
 	justify-content: center;
 	align-items:center;
-	flex-wrap: rap;
 
 }
 
@@ -102,7 +100,7 @@
 .navbutton:hover{
 	/* background-color: */
 	text-decoration: underline overline;
-	text-decoration-color: #dfdfdf;
+	text-decoration-color: #d54398;
 	text-decoration-thickness:5px;
 	cursor: grab;
 		
